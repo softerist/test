@@ -1,4 +1,4 @@
-# CHALLENGE #2 - Get Nested Value
+# Test #2 - Get Nested Value
 
 Python solution for retrieving nested values from JSON-like dictionaries using a slash-separated key path
 
